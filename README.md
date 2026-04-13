@@ -1,4 +1,4 @@
-## Estudante de Ciência da Computação no quarto período. Principal interesse em Inteligência Artificial.
+## Estudante de Ciência da Computação
 
 <!--
 **victorfrancacg/victorfrancacg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
